@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<div style="text-align: center;">
+			<strong>Poison Attack</strong></div>
+		<div style="text-align: center;">
+			Intensifies Viper&#39;s venom, adding an effect to his normal</div>
+		<div style="text-align: center;">
+			attack that slows attack and movement speed while dealing</div>
+		<div style="text-align: center;">
+			damage over time based on how low the target is.</div>
+		<div style="text-align: center;">
+			<strong>Nethertoxin</strong></div>
+		<div style="text-align: center;">
+			Viper releases a Nethertoxin at the targeted area.</div>
+		<div style="text-align: center;">
+			Units in that area take damage over time, have</div>
+		<div style="text-align: center;">
+			lower resistance and their passives do not work.</div>
+		<div style="text-align: center;">
+			<strong>Corrosive Skin</strong></div>
+		<div style="text-align: center;">
+			Viper exudes an infectious toxin that damages and</div>
+		<div style="text-align: center;">
+			slows the attack speed of any enemy that damages</div>
+		<div style="text-align: center;">
+			it in a 1400 radius. The acid exudate also increases</div>
+		<div style="text-align: center;">
+			Viper&#39;s resistance to magic.</div>
+	</body>
+</html>

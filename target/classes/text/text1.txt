@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<div style="text-align: center;">
+			<b>Dragon Slave</b></div>
+		<div style="text-align: center;">
+			Lina channels the breath of a dragon,</div>
+		<div style="text-align: center;">
+			sending out a wave of fire that scorches</div>
+		<div style="text-align: center;">
+			every enemy in its path.</div>
+		<div style="text-align: center;">
+			<b>Light Strike Array</b></div>
+		<div style="text-align: center;">
+			Summons a column of flames</div>
+		<div style="text-align: center;">
+			that damages and stuns enemies.</div>
+		<div style="text-align: center;">
+			<b>Fiery Soul</b></div>
+		<div style="text-align: center;">
+			Grants bonus attack and movement</div>
+		<div style="text-align: center;">
+			speed each time Lina casts a spell.</div>
+		<div style="text-align: center;">
+			Stacks with itself. Lasts 10 seconds.</div>
+		<div style="text-align: center;">
+			<b>Laguna Blade</b></div>
+		<div style="text-align: center;">
+			Fires off a bolt of lightning at</div>
+		<div style="text-align: center;">
+			a single enemy unit, dealing massive damage.</div>
+		<div style="text-align: center;">
+			Upgradable by Aghanim&#39;s Scepter.</div>
+	</body>
+</html>
